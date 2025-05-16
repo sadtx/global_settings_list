@@ -2,6 +2,8 @@
 
 Flutter Plugin for getting List of Settings.Global on Android
 
+Original repository is [here](https://github.com/projo27/global_settings_list)
+
 ## How to install the plugin
 
 1. edit _pubspec.yaml_
