@@ -15,7 +15,7 @@ dependencies:
 
   global_settings_list:
     git:
-      url: https://github.com/daegeun-dtx/global_settings_list
+      url: https://github.com/sadtx/global_settings_list
       ref: master
 ```
 
